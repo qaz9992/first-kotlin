@@ -61,3 +61,5 @@ fun main() {
     main1c13()
     main2c13()
 }
+
+// Kotlin初级完, 之后为中级
